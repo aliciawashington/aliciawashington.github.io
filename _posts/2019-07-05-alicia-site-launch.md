@@ -1,6 +1,6 @@
 ---
-layout:post
-title:"The Launch"
+layout: posts
+title: "The Launch"
 date: 2019-07-05
 ---
 
